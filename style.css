@@ -45,3 +45,7 @@
 #img2img_interrupt {
     z-index: 1;
 }
+
+#component-501.gradio-row.resize-handle-row.svelte-15lo0d8.unequal-height {
+    grid-template-columns: 1fr !important;
+}
